@@ -4,6 +4,8 @@ This project creates a realistic, vintage C9-style flicker effect on any address
 
 The example is configured for WS2812 / WS2812B (NeoPixel) LEDs, but it can be adapted to any addressable LED chipset that FastLED supports (SK6812, APA102, WS2801, and more) and to any compatible microcontroller platform (Arduino Uno, Nano, Mega, ESP32, ESP8266, Teensy, STM32, etc.).
 
+![IMG_2009](https://github.com/user-attachments/assets/edbc5720-7bf1-480b-9ed8-3618fcad2b74)
+
 ---
 
 ## Features
